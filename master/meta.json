@@ -1,8 +1,0 @@
-{
-  "desc": "Pure nim implementation of MurmurHash",
-  "license": "MIT",
-  "name": "murmurhash",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/cwpearson/nim-murmurhash",
-  "version": "master"
-}
