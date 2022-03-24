@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-murmurhash-0_3_0": "src-murmurhash-0_3_0"
+        "src-murmur-0_3_0": "src-murmur-0_3_0"
       }
     },
-    "src-murmurhash-0_3_0": {
+    "src-murmur-0_3_0": {
       "flake": false,
       "locked": {
         "lastModified": 1565996525,
