@@ -11,6 +11,7 @@
   inputs.src-murmurhash-master.ref   = "refs/heads/master";
   inputs.src-murmurhash-master.owner = "cwpearson";
   inputs.src-murmurhash-master.repo  = "nim-murmurhash";
+  inputs.src-murmurhash-master.dir   = "";
   inputs.src-murmurhash-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
