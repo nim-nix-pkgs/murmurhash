@@ -11,7 +11,6 @@
   inputs.src-murmur-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-murmur-0_3_0.owner = "cwpearson";
   inputs.src-murmur-0_3_0.repo  = "nim-murmurhash";
-  inputs.src-murmur-0_3_0.dir   = "";
   inputs.src-murmur-0_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
